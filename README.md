@@ -35,7 +35,7 @@
 ### Como visualizar 
 Você pode visualizar o projeto de duas formas:
 
-1. Acesso online: https://s4naju.github.io/Curr-iulo-Senna/
+1. Acesso online: https://s4naju.github.io/curriculo_senna.github.io/
 
 2. Acesso local: 
 - Baixe o  repositório.
