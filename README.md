@@ -33,12 +33,21 @@
 ---
 
 ### Como visualizar 
- 
+Você pode visualizar o projeto de duas formas:
+
+1. Acesso online: https://s4naju.github.io/Curr-iulo-Senna/
+
+2. Acesso local: 
+- Baixe o  repositório.
+- Abra a pasta do projeto no seu computador.
+- Dê um duplo clique no arquivo *`index.html`* para abrir no navegador.
  
 ---
 
 ### Observação:
+
 O layout do currículo foi inspirado em um modelo encontrado no GitHub, porém não tenho mais o link do repositório original.
+Algumas informações pessoais foram criadas de forma fictícia só para deixar o currículo mais completo durante o desenvolvimento.
  
 ---
 
