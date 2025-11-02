@@ -47,6 +47,7 @@ Você pode visualizar o projeto de duas formas:
 ### Observação:
 
 O layout do currículo foi inspirado em um modelo encontrado no GitHub, porém não tenho mais o link do repositório original.
+
 Algumas informações pessoais foram criadas de forma fictícia só para deixar o currículo mais completo durante o desenvolvimento.
  
 ---
